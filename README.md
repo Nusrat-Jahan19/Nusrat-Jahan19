@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Android, Three.js** 
 
-- 👨‍💻 All of my projects are available at [nusrat-jahan-19.netlify.app](nusrat-jahan-19.netlify.app)
+- 👨‍💻 All of my projects are available at [Website](https://nusrat-jahan-19.netlify.app/)
 
 - 📫 How to reach me **nj614564@gmail.com**
 
