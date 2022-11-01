@@ -4,9 +4,11 @@
 
 - 🔭 I’m currently working on **Natural Language Processing (NLP)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
-- 💬 Ask me about **Android, Three.js**
+- 💬 Ask me about **Android, Three.js** 
+
+- 👨‍💻 All of my projects are available at [nusrat-jahan-19.netlify.app](nusrat-jahan-19.netlify.app)
 
 - 📫 How to reach me **nj614564@gmail.com**
 
