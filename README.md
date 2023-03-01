@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nusrat Jahan</h1>
-<h3 align="center">A passionate frontend developer from AUST</h3>
+<h3 align="center">A passionate web developer from AUST</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/cbd7cb0e8a2f78a1f466c80de55300d7/tumblr_ogfvy9Bc2d1vnqmpbo1_500.gif">
 
 - 🔭 I’m currently working on **Natural Language Processing (NLP)**
