@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Website](https://nusrat-jahan-19.netlify.app/)
 
-- 📫 How to reach me **nj614564@gmail.com**
+- 📫 How to reach me **itsnusratjahan19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
